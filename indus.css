@@ -1,0 +1,32 @@
+.ind{
+    font-size:100px;
+    color:brown;
+    text-align:center;
+}
+.e{
+    font-size:30px;
+}
+.w{
+    font-size: 30px;
+}
+.c{
+    font-size:30px;
+}
+.h1{
+    font-size:40px;
+}
+.h2{
+    font-size:40px;
+}
+.h3{
+    font-size:40px;
+}
+.h4{
+    font-size:40px;
+}
+.t1{
+    font-size: 30px;
+}
+body{
+    background:linear-gradient(lavender,pink)
+}
